@@ -1,1 +1,1 @@
-# Hack-THe-Box-Quiz
+# Hack-The-Box-Quiz
