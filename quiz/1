@@ -1,0 +1,5 @@
+Spawn the target machine(takes 2-3 minutes and provides ip address.
+Run ssh command on bash = ssh htb-student@ip_address
+Enter the password ie. HTB_@cademy_stdnt!
+To know machine hardware use command = uname -m
+Copy and paste the answer ie. x86_64
